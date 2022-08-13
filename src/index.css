@@ -1,0 +1,24 @@
+a{
+  color:none;
+  text-decoration: none;
+}
+/* *{
+  color:black;
+} */
+.App {
+  text-align: center;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  text-align: center;
+}
+
+
+#root{
+  width: 390px;
+  
+}
+

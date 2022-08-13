@@ -1,0 +1,38 @@
+.main{
+    background-color:#a1c399;
+    height:50px;
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    text-align: center;
+
+   
+}
+.center{
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.flex{
+    display:flex;
+}
+button{
+    width:100%;
+    height:20px;
+    background-color: #a4cb88;
+    border:0.5px solid grey;
+
+
+
+}
+select{
+    width:100%;
+    text-align: center;
+    background-color: #a1c399;
+}
+.sortFilter{
+    /* background-color: black; */
+    /* border:0.5px solid rgb(18, 227, 74); */
+    
+    color:rgb(18, 227, 74);
+}
